@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+
+}
+#header1{
+    background-color: rgb(19, 78, 78);
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.Baihoc{
+    text-align: left;
+    font-size: 20px;
+}
+.Noidung{
+    color: rgb(95, 19, 19);
+}
+ol{
+    width: 300px;
+    height: 300px;
+    padding: 40px;
+}
